@@ -8,7 +8,6 @@ import thunk from 'redux-thunk';
 
 const reducers = {
     todos,
-    isLoading,
 };
 
 const persistConfig = {
